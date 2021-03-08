@@ -1,5 +1,6 @@
 Hello This is a new branch Ujjaval
 
-This is Ujjaval Sinha
+This is Ujjaval Sinha Samsung
 I am a developer and I like to create branches on github
-Welcome to the new branch
+Welcome to the samsung
+
